@@ -16,7 +16,7 @@ const swiper = new Swiper('.swiper', {
     pagination: {
       el: '.swiper-pagination',
     },
-    slidesPerView: 3,
+    slidesPerView: 4,
   
     // And if we need scrollbar
     scrollbar: {
